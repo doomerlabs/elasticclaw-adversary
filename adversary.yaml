@@ -1,4 +1,4 @@
-name: adversarylabs/factory/elasticclaw
+name: factory/elasticclaw
 version: 0.0.17
 description: Reviews ElasticClaw workspaces, workflows, goals, agents, and execution policies for correctness, maintainability, reliability, and efficiency.
 
